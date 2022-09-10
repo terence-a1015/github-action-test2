@@ -1,0 +1,27 @@
+name: Ali
+age: 28
+address: "1972 willaims: Drive"
+active: true
+key:
+    key: value
+    key2: 33 
+    key3:
+        key: value
+        key2: value
+JasonObject: {key: value, key2: 33, key3: {key: value, key2: value}}
+array:
+    - item1
+    - item2
+    - { key: value }
+JasonArray: [item1, item2]
+objectsArray:
+    - key: value
+      key2: value
+    - key: value
+      key2: value 2
+LongText: >
+    It's feel awesome 
+    and challedging learning 
+    new technology everyday 
+    but this is the way forward 
+    as an engineer  
